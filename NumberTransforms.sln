@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberTransforms", "NumberTransforms\NumberTransforms.csproj", "{72460FAA-3137-45FB-B5DA-364C5A1D164C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberTransformsTest", "NumberTransformsTest\NumberTransformsTest.csproj", "{8EADDF79-94C9-4BF7-8A00-E86D7A793BE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72460FAA-3137-45FB-B5DA-364C5A1D164C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72460FAA-3137-45FB-B5DA-364C5A1D164C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72460FAA-3137-45FB-B5DA-364C5A1D164C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72460FAA-3137-45FB-B5DA-364C5A1D164C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EADDF79-94C9-4BF7-8A00-E86D7A793BE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EADDF79-94C9-4BF7-8A00-E86D7A793BE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EADDF79-94C9-4BF7-8A00-E86D7A793BE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EADDF79-94C9-4BF7-8A00-E86D7A793BE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0917AA78-8290-4361-97AA-0A9580E867C5}
+	EndGlobalSection
+EndGlobal
